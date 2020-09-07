@@ -12,3 +12,6 @@ sortNumber(number);
 console.log(number);
 
 
+1
+2
+3
